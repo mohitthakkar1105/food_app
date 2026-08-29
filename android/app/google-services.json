@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "545862381512",
+    "project_id": "signin-learning-3ac72",
+    "storage_bucket": "signin-learning-3ac72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545862381512:android:05748f300ff716d3a21afd",
+        "android_client_info": {
+          "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545862381512-52fip4k47dgkaanjfmme4ff44qkq3jhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodie",
+            "certificate_hash": "872223545a324e79e17ed222132533d971be875c"
+          }
+        },
+        {
+          "client_id": "545862381512-b2a06h05eko5moosvusm5ll83i4cd67r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjgVfvpsXV5XeBljSrnYV5irdcAsVS3VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545862381512-b2a06h05eko5moosvusm5ll83i4cd67r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
